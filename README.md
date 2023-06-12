@@ -1,5 +1,11 @@
-### Hi there 👋
+### bem vindo a minha pagina 👋
 
+
+<h2> Arthur Vieira </h2>
+
+Aula de Git hub 12/06/2023
+
+<b> Sesc londrina </b>
 <!--
 **arthurvieirafrutuoso/arthurvieirafrutuoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
